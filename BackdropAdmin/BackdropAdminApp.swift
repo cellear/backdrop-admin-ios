@@ -2,16 +2,19 @@
 //  BackdropAdminApp.swift
 //  BackdropAdmin
 //
-//  Created by Luke McCormick on 11/17/25.
+//  Created for Backdrop CMS Admin
 //
 
 import SwiftUI
 
 @main
 struct BackdropAdminApp: App {
+    @StateObject private var authManager = AuthManager()
+    
     var body: some Scene {
         WindowGroup {
             ContentView()
+                .environmentObject(authManager)
         }
     }
 }
