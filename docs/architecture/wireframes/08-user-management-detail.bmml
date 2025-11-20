@@ -1,0 +1,233 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="414" measuredH="750">
+  <controls>
+    <!-- Sheet Background -->
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="414" h="750" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16777215</color>
+        <borderStyle>roundedSolid</borderStyle>
+      </controlProperties>
+    </control>
+
+    <!-- Sheet Handle (iOS style) -->
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::HRule" x="177" y="10" w="60" h="-1" measuredW="100" measuredH="10" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>10066329</color>
+      </controlProperties>
+    </control>
+
+    <!-- Sheet Title -->
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="157" y="30" w="-1" h="-1" measuredW="100" measuredH="25" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>User%20Details</text>
+        <size>18</size>
+        <bold>true</bold>
+      </controlProperties>
+    </control>
+
+    <!-- Done Button -->
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Button" x="345" y="25" w="54" h="30" measuredW="54" measuredH="27" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Done</text>
+        <color>2848996</color>
+      </controlProperties>
+    </control>
+
+    <!-- Divider -->
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::HRule" x="0" y="65" w="414" h="-1" measuredW="100" measuredH="10" zOrder="4" locked="false" isInGroup="-1"/>
+
+    <!-- Large Avatar -->
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Icon" x="157" y="85" w="-1" h="-1" measuredW="96" measuredH="96" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>ContactIcon%7Cxxlarge</icon>
+      </controlProperties>
+    </control>
+
+    <!-- User Name -->
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Label" x="152" y="195" w="-1" h="-1" measuredW="111" measuredH="28" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>john%20smith</text>
+        <size>20</size>
+        <bold>true</bold>
+      </controlProperties>
+    </control>
+
+    <!-- Email -->
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Label" x="132" y="228" w="-1" h="-1" measuredW="150" measuredH="21" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>john@example.com</text>
+        <size>14</size>
+        <color>6710886</color>
+      </controlProperties>
+    </control>
+
+    <!-- Divider -->
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::HRule" x="20" y="265" w="374" h="-1" measuredW="100" measuredH="10" zOrder="8" locked="false" isInGroup="-1"/>
+
+    <!-- Status Label -->
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::Label" x="35" y="285" w="-1" h="-1" measuredW="42" measuredH="21" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Status</text>
+        <size>14</size>
+        <color>6710886</color>
+      </controlProperties>
+    </control>
+
+    <!-- Status Value -->
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::Label" x="270" y="285" w="-1" h="-1" measuredW="79" measuredH="21" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Blocked%20%uD83D%uDD34</text>
+        <size>14</size>
+        <bold>true</bold>
+        <color>13421772</color>
+      </controlProperties>
+    </control>
+
+    <!-- Roles Label -->
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::Label" x="35" y="315" w="-1" h="-1" measuredW="38" measuredH="21" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Roles</text>
+        <size>14</size>
+        <color>6710886</color>
+      </controlProperties>
+    </control>
+
+    <!-- Roles Value -->
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::Label" x="200" y="315" w="-1" h="-1" measuredW="132" measuredH="21" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Authenticated%20user</text>
+        <size>14</size>
+        <align>right</align>
+      </controlProperties>
+    </control>
+
+    <!-- Joined Label -->
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::Label" x="35" y="345" w="-1" h="-1" measuredW="44" measuredH="21" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Joined</text>
+        <size>14</size>
+        <color>6710886</color>
+      </controlProperties>
+    </control>
+
+    <!-- Joined Value -->
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::Label" x="245" y="345" w="-1" h="-1" measuredW="87" measuredH="21" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Jan%2015%2C%202024</text>
+        <size>14</size>
+        <align>right</align>
+      </controlProperties>
+    </control>
+
+    <!-- Last Login Label -->
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::Label" x="35" y="375" w="-1" h="-1" measuredW="70" measuredH="21" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Last%20login</text>
+        <size>14</size>
+        <color>6710886</color>
+      </controlProperties>
+    </control>
+
+    <!-- Last Login Value -->
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::Label" x="265" y="375" w="-1" h="-1" measuredW="67" measuredH="21" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>3%20days%20ago</text>
+        <size>14</size>
+        <align>right</align>
+      </controlProperties>
+    </control>
+
+    <!-- Current Login Label -->
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::Label" x="35" y="405" w="-1" h="-1" measuredW="89" measuredH="21" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Current%20login</text>
+        <size>14</size>
+        <color>6710886</color>
+      </controlProperties>
+    </control>
+
+    <!-- Current Login Value -->
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::Label" x="290" y="405" w="-1" h="-1" measuredW="42" measuredH="21" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Never</text>
+        <size>14</size>
+        <align>right</align>
+      </controlProperties>
+    </control>
+
+    <!-- Divider -->
+    <control controlID="19" controlTypeID="com.balsamiq.mockups::HRule" x="20" y="440" w="374" h="-1" measuredW="100" measuredH="10" zOrder="19" locked="false" isInGroup="-1"/>
+
+    <!-- Activity Section Header -->
+    <control controlID="20" controlTypeID="com.balsamiq.mockups::Label" x="35" y="455" w="-1" h="-1" measuredW="54" measuredH="21" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Activity</text>
+        <size>14</size>
+        <bold>true</bold>
+      </controlProperties>
+    </control>
+
+    <!-- Content Count Label -->
+    <control controlID="21" controlTypeID="com.balsamiq.mockups::Label" x="55" y="485" w="-1" h="-1" measuredW="110" measuredH="21" zOrder="21" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Content%20created</text>
+        <size>14</size>
+        <color>6710886</color>
+      </controlProperties>
+    </control>
+
+    <!-- Content Count Value -->
+    <control controlID="22" controlTypeID="com.balsamiq.mockups::Label" x="285" y="485" w="-1" h="-1" measuredW="47" measuredH="21" zOrder="22" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>12%20posts</text>
+        <size>14</size>
+        <align>right</align>
+      </controlProperties>
+    </control>
+
+    <!-- Comment Count Label -->
+    <control controlID="23" controlTypeID="com.balsamiq.mockups::Label" x="55" y="515" w="-1" h="-1" measuredW="117" measuredH="21" zOrder="23" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Comments%20posted</text>
+        <size>14</size>
+        <color>6710886</color>
+      </controlProperties>
+    </control>
+
+    <!-- Comment Count Value -->
+    <control controlID="24" controlTypeID="com.balsamiq.mockups::Label" x="310" y="515" w="-1" h="-1" measuredW="22" measuredH="21" zOrder="24" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>45</text>
+        <size>14</size>
+        <align>right</align>
+      </controlProperties>
+    </control>
+
+    <!-- Divider -->
+    <control controlID="25" controlTypeID="com.balsamiq.mockups::HRule" x="20" y="550" w="374" h="-1" measuredW="100" measuredH="10" zOrder="25" locked="false" isInGroup="-1"/>
+
+    <!-- Unblock Button -->
+    <control controlID="26" controlTypeID="com.balsamiq.mockups::Button" x="57" y="575" w="300" h="40" measuredW="183" measuredH="27" zOrder="26" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%u2713%20%20Unblock%20User</text>
+        <size>16</size>
+        <color>5763719</color>
+      </controlProperties>
+    </control>
+
+    <!-- Reset Password Button -->
+    <control controlID="27" controlTypeID="com.balsamiq.mockups::Button" x="57" y="625" w="300" h="40" measuredW="195" measuredH="27" zOrder="27" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%uD83D%uDD11%20%20Reset%20Password</text>
+        <size>16</size>
+      </controlProperties>
+    </control>
+
+    <!-- View on Web Button -->
+    <control controlID="28" controlTypeID="com.balsamiq.mockups::Button" x="57" y="675" w="300" h="40" measuredW="155" measuredH="27" zOrder="28" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%uD83C%uDF10%20%20View%20on%20Web</text>
+        <size>16</size>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
