@@ -1,0 +1,410 @@
+{
+  "mockup": {
+    "controls": {
+      "control": [
+        {
+          "ID": "0",
+          "typeID": "Canvas",
+          "zOrder": "0",
+          "w": "414",
+          "h": "750",
+          "measuredW": "100",
+          "measuredH": "70",
+          "x": "0",
+          "y": "0",
+          "properties": {
+            "color": "16777215",
+            "borderStyle": "roundedSolid"
+          }
+        },
+        {
+          "ID": "1",
+          "typeID": "HRule",
+          "zOrder": "1",
+          "w": "60",
+          "measuredW": "100",
+          "measuredH": "10",
+          "x": "177",
+          "y": "10",
+          "properties": {
+            "color": "10066329"
+          }
+        },
+        {
+          "ID": "2",
+          "typeID": "Label",
+          "zOrder": "2",
+          "measuredW": "100",
+          "measuredH": "25",
+          "x": "157",
+          "y": "30",
+          "properties": {
+            "text": "User Details",
+            "size": "18",
+            "bold": "true"
+          }
+        },
+        {
+          "ID": "3",
+          "typeID": "Button",
+          "zOrder": "3",
+          "w": "54",
+          "h": "30",
+          "measuredW": "54",
+          "measuredH": "27",
+          "x": "345",
+          "y": "25",
+          "properties": {
+            "text": "Done",
+            "color": "2848996"
+          }
+        },
+        {
+          "ID": "4",
+          "typeID": "HRule",
+          "zOrder": "4",
+          "w": "414",
+          "measuredW": "100",
+          "measuredH": "10",
+          "x": "0",
+          "y": "65"
+        },
+        {
+          "ID": "5",
+          "typeID": "Icon",
+          "zOrder": "5",
+          "measuredW": "96",
+          "measuredH": "96",
+          "x": "159",
+          "y": "85",
+          "properties": {
+            "icon": {
+              "ID": "user",
+              "size": "xxlarge"
+            }
+          }
+        },
+        {
+          "ID": "6",
+          "typeID": "Label",
+          "zOrder": "6",
+          "measuredW": "111",
+          "measuredH": "28",
+          "x": "152",
+          "y": "195",
+          "properties": {
+            "text": "john smith",
+            "size": "20",
+            "bold": "true"
+          }
+        },
+        {
+          "ID": "7",
+          "typeID": "Label",
+          "zOrder": "7",
+          "measuredW": "150",
+          "measuredH": "21",
+          "x": "132",
+          "y": "228",
+          "properties": {
+            "text": "john@example.com",
+            "size": "14",
+            "color": "6710886"
+          }
+        },
+        {
+          "ID": "8",
+          "typeID": "HRule",
+          "zOrder": "8",
+          "w": "374",
+          "measuredW": "100",
+          "measuredH": "10",
+          "x": "20",
+          "y": "265"
+        },
+        {
+          "ID": "9",
+          "typeID": "Label",
+          "zOrder": "9",
+          "measuredW": "42",
+          "measuredH": "21",
+          "x": "35",
+          "y": "285",
+          "properties": {
+            "text": "Status",
+            "size": "14",
+            "color": "6710886"
+          }
+        },
+        {
+          "ID": "10",
+          "typeID": "Label",
+          "zOrder": "10",
+          "measuredW": "79",
+          "measuredH": "21",
+          "x": "270",
+          "y": "285",
+          "properties": {
+            "text": "Blocked 🔴",
+            "size": "14",
+            "bold": "true",
+            "color": "13421772"
+          }
+        },
+        {
+          "ID": "11",
+          "typeID": "Label",
+          "zOrder": "11",
+          "measuredW": "38",
+          "measuredH": "21",
+          "x": "35",
+          "y": "315",
+          "properties": {
+            "text": "Roles",
+            "size": "14",
+            "color": "6710886"
+          }
+        },
+        {
+          "ID": "12",
+          "typeID": "Label",
+          "zOrder": "12",
+          "measuredW": "132",
+          "measuredH": "21",
+          "x": "200",
+          "y": "315",
+          "properties": {
+            "text": "Authenticated user",
+            "size": "14",
+            "align": "right"
+          }
+        },
+        {
+          "ID": "13",
+          "typeID": "Label",
+          "zOrder": "13",
+          "measuredW": "44",
+          "measuredH": "21",
+          "x": "35",
+          "y": "345",
+          "properties": {
+            "text": "Joined",
+            "size": "14",
+            "color": "6710886"
+          }
+        },
+        {
+          "ID": "14",
+          "typeID": "Label",
+          "zOrder": "14",
+          "measuredW": "87",
+          "measuredH": "21",
+          "x": "245",
+          "y": "345",
+          "properties": {
+            "text": "Jan 15, 2024",
+            "size": "14",
+            "align": "right"
+          }
+        },
+        {
+          "ID": "15",
+          "typeID": "Label",
+          "zOrder": "15",
+          "measuredW": "70",
+          "measuredH": "21",
+          "x": "35",
+          "y": "375",
+          "properties": {
+            "text": "Last login",
+            "size": "14",
+            "color": "6710886"
+          }
+        },
+        {
+          "ID": "16",
+          "typeID": "Label",
+          "zOrder": "16",
+          "measuredW": "67",
+          "measuredH": "21",
+          "x": "265",
+          "y": "375",
+          "properties": {
+            "text": "3 days ago",
+            "size": "14",
+            "align": "right"
+          }
+        },
+        {
+          "ID": "17",
+          "typeID": "Label",
+          "zOrder": "17",
+          "measuredW": "89",
+          "measuredH": "21",
+          "x": "35",
+          "y": "405",
+          "properties": {
+            "text": "Current login",
+            "size": "14",
+            "color": "6710886"
+          }
+        },
+        {
+          "ID": "18",
+          "typeID": "Label",
+          "zOrder": "18",
+          "measuredW": "42",
+          "measuredH": "21",
+          "x": "290",
+          "y": "405",
+          "properties": {
+            "text": "Never",
+            "size": "14",
+            "align": "right"
+          }
+        },
+        {
+          "ID": "19",
+          "typeID": "HRule",
+          "zOrder": "19",
+          "w": "374",
+          "measuredW": "100",
+          "measuredH": "10",
+          "x": "20",
+          "y": "440"
+        },
+        {
+          "ID": "20",
+          "typeID": "Label",
+          "zOrder": "20",
+          "measuredW": "54",
+          "measuredH": "21",
+          "x": "35",
+          "y": "455",
+          "properties": {
+            "text": "Activity",
+            "size": "14",
+            "bold": "true"
+          }
+        },
+        {
+          "ID": "21",
+          "typeID": "Label",
+          "zOrder": "21",
+          "measuredW": "110",
+          "measuredH": "21",
+          "x": "55",
+          "y": "485",
+          "properties": {
+            "text": "Content created",
+            "size": "14",
+            "color": "6710886"
+          }
+        },
+        {
+          "ID": "22",
+          "typeID": "Label",
+          "zOrder": "22",
+          "measuredW": "47",
+          "measuredH": "21",
+          "x": "285",
+          "y": "485",
+          "properties": {
+            "text": "12 posts",
+            "size": "14",
+            "align": "right"
+          }
+        },
+        {
+          "ID": "23",
+          "typeID": "Label",
+          "zOrder": "23",
+          "measuredW": "117",
+          "measuredH": "21",
+          "x": "55",
+          "y": "515",
+          "properties": {
+            "text": "Comments posted",
+            "size": "14",
+            "color": "6710886"
+          }
+        },
+        {
+          "ID": "24",
+          "typeID": "Label",
+          "zOrder": "24",
+          "measuredW": "22",
+          "measuredH": "21",
+          "x": "310",
+          "y": "515",
+          "properties": {
+            "text": "45",
+            "size": "14",
+            "align": "right"
+          }
+        },
+        {
+          "ID": "25",
+          "typeID": "HRule",
+          "zOrder": "25",
+          "w": "374",
+          "measuredW": "100",
+          "measuredH": "10",
+          "x": "20",
+          "y": "550"
+        },
+        {
+          "ID": "26",
+          "typeID": "Button",
+          "zOrder": "26",
+          "w": "300",
+          "h": "40",
+          "measuredW": "183",
+          "measuredH": "27",
+          "x": "57",
+          "y": "575",
+          "properties": {
+            "text": "✓  Unblock User",
+            "size": "16",
+            "color": "5763719"
+          }
+        },
+        {
+          "ID": "27",
+          "typeID": "Button",
+          "zOrder": "27",
+          "w": "300",
+          "h": "40",
+          "measuredW": "195",
+          "measuredH": "27",
+          "x": "57",
+          "y": "625",
+          "properties": {
+            "text": "🔑  Reset Password",
+            "size": "16"
+          }
+        },
+        {
+          "ID": "28",
+          "typeID": "Button",
+          "zOrder": "28",
+          "w": "300",
+          "h": "40",
+          "measuredW": "155",
+          "measuredH": "27",
+          "x": "57",
+          "y": "675",
+          "properties": {
+            "text": "🌐  View on Web",
+            "size": "16"
+          }
+        }
+      ]
+    },
+    "measuredH": "750",
+    "measuredW": "414",
+    "mockupH": "750",
+    "mockupW": "414",
+    "version": "1.0"
+  }
+}

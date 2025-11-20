@@ -1,0 +1,440 @@
+{
+  "mockup": {
+    "controls": {
+      "control": [
+        {
+          "ID": "0",
+          "typeID": "Canvas",
+          "zOrder": "0",
+          "w": "414",
+          "h": "896",
+          "measuredW": "100",
+          "measuredH": "70",
+          "x": "0",
+          "y": "0",
+          "properties": {
+            "color": "16777215"
+          }
+        },
+        {
+          "ID": "1",
+          "typeID": "TitleWindow",
+          "zOrder": "1",
+          "w": "414",
+          "h": "60",
+          "measuredW": "450",
+          "measuredH": "400",
+          "x": "0",
+          "y": "0",
+          "properties": {
+            "text": "Users",
+            "topheight": "60",
+            "bottomheight": "0",
+            "close": "false",
+            "maximizeRestore": "false",
+            "minimize": "false"
+          }
+        },
+        {
+          "ID": "2",
+          "typeID": "Icon",
+          "zOrder": "2",
+          "measuredW": "24",
+          "measuredH": "24",
+          "x": "15",
+          "y": "20",
+          "properties": {
+            "icon": {
+              "ID": "circle-arrow-left",
+              "size": "small"
+            }
+          }
+        },
+        {
+          "ID": "3",
+          "typeID": "Icon",
+          "zOrder": "3",
+          "measuredW": "24",
+          "measuredH": "24",
+          "x": "345",
+          "y": "20",
+          "properties": {
+            "icon": {
+              "ID": "search",
+              "size": "small"
+            }
+          }
+        },
+        {
+          "ID": "4",
+          "typeID": "Icon",
+          "zOrder": "4",
+          "measuredW": "24",
+          "measuredH": "24",
+          "x": "380",
+          "y": "20",
+          "properties": {
+            "icon": {
+              "ID": "gear",
+              "size": "small"
+            }
+          }
+        },
+        {
+          "ID": "5",
+          "typeID": "SearchBox",
+          "zOrder": "5",
+          "w": "384",
+          "measuredW": "120",
+          "measuredH": "25",
+          "x": "15",
+          "y": "75",
+          "properties": {
+            "text": "Search by name or email..."
+          }
+        },
+        {
+          "ID": "6",
+          "typeID": "ButtonBar",
+          "zOrder": "6",
+          "w": "384",
+          "h": "29",
+          "measuredW": "290",
+          "measuredH": "29",
+          "x": "15",
+          "y": "115",
+          "properties": {
+            "text": "All, Active, Blocked, Admins",
+            "selectedIndex": "0"
+          }
+        },
+        {
+          "ID": "7",
+          "typeID": "Canvas",
+          "zOrder": "7",
+          "w": "384",
+          "h": "80",
+          "measuredW": "100",
+          "measuredH": "70",
+          "x": "15",
+          "y": "160",
+          "properties": {
+            "borderStyle": "roundedSolid",
+            "color": "16777215"
+          }
+        },
+        {
+          "ID": "8",
+          "typeID": "Icon",
+          "zOrder": "8",
+          "measuredW": "48",
+          "measuredH": "48",
+          "x": "25",
+          "y": "175",
+          "properties": {
+            "icon": {
+              "ID": "user",
+              "size": "large"
+            }
+          }
+        },
+        {
+          "ID": "9",
+          "typeID": "Label",
+          "zOrder": "9",
+          "measuredW": "41",
+          "measuredH": "21",
+          "x": "85",
+          "y": "172",
+          "properties": {
+            "text": "admin",
+            "bold": "true",
+            "size": "14"
+          }
+        },
+        {
+          "ID": "10",
+          "typeID": "Label",
+          "zOrder": "10",
+          "measuredW": "49",
+          "measuredH": "21",
+          "x": "310",
+          "y": "172",
+          "properties": {
+            "text": "[Active]",
+            "size": "12",
+            "color": "5763719"
+          }
+        },
+        {
+          "ID": "11",
+          "typeID": "Label",
+          "zOrder": "11",
+          "measuredW": "103",
+          "measuredH": "19",
+          "x": "85",
+          "y": "193",
+          "properties": {
+            "text": "admin@site.com",
+            "size": "12",
+            "color": "6710886"
+          }
+        },
+        {
+          "ID": "12",
+          "typeID": "Label",
+          "zOrder": "12",
+          "measuredW": "118",
+          "measuredH": "19",
+          "x": "85",
+          "y": "212",
+          "properties": {
+            "text": "Last login: 2 hours ago",
+            "size": "11",
+            "color": "6710886"
+          }
+        },
+        {
+          "ID": "13",
+          "typeID": "Canvas",
+          "zOrder": "13",
+          "w": "384",
+          "h": "80",
+          "measuredW": "100",
+          "measuredH": "70",
+          "x": "15",
+          "y": "250",
+          "properties": {
+            "borderStyle": "roundedSolid",
+            "color": "16777215"
+          }
+        },
+        {
+          "ID": "14",
+          "typeID": "Icon",
+          "zOrder": "14",
+          "measuredW": "48",
+          "measuredH": "48",
+          "x": "25",
+          "y": "265",
+          "properties": {
+            "icon": {
+              "ID": "user",
+              "size": "large"
+            }
+          }
+        },
+        {
+          "ID": "15",
+          "typeID": "Label",
+          "zOrder": "15",
+          "measuredW": "45",
+          "measuredH": "21",
+          "x": "85",
+          "y": "262",
+          "properties": {
+            "text": "jsmith",
+            "bold": "true",
+            "size": "14"
+          }
+        },
+        {
+          "ID": "16",
+          "typeID": "Label",
+          "zOrder": "16",
+          "measuredW": "64",
+          "measuredH": "21",
+          "x": "300",
+          "y": "262",
+          "properties": {
+            "text": "[Blocked]",
+            "size": "12",
+            "color": "13421772"
+          }
+        },
+        {
+          "ID": "17",
+          "typeID": "Label",
+          "zOrder": "17",
+          "measuredW": "117",
+          "measuredH": "19",
+          "x": "85",
+          "y": "283",
+          "properties": {
+            "text": "john@example.com",
+            "size": "12",
+            "color": "6710886"
+          }
+        },
+        {
+          "ID": "18",
+          "typeID": "Label",
+          "zOrder": "18",
+          "measuredW": "113",
+          "measuredH": "19",
+          "x": "85",
+          "y": "302",
+          "properties": {
+            "text": "Last login: 3 days ago",
+            "size": "11",
+            "color": "6710886"
+          }
+        },
+        {
+          "ID": "19",
+          "typeID": "Canvas",
+          "zOrder": "19",
+          "w": "384",
+          "h": "80",
+          "measuredW": "100",
+          "measuredH": "70",
+          "x": "15",
+          "y": "340",
+          "properties": {
+            "borderStyle": "roundedSolid",
+            "color": "16777215"
+          }
+        },
+        {
+          "ID": "20",
+          "typeID": "Icon",
+          "zOrder": "20",
+          "measuredW": "48",
+          "measuredH": "48",
+          "x": "25",
+          "y": "355",
+          "properties": {
+            "icon": {
+              "ID": "user",
+              "size": "large"
+            }
+          }
+        },
+        {
+          "ID": "21",
+          "typeID": "Label",
+          "zOrder": "21",
+          "measuredW": "38",
+          "measuredH": "21",
+          "x": "85",
+          "y": "352",
+          "properties": {
+            "text": "editor",
+            "bold": "true",
+            "size": "14"
+          }
+        },
+        {
+          "ID": "22",
+          "typeID": "Label",
+          "zOrder": "22",
+          "measuredW": "49",
+          "measuredH": "21",
+          "x": "310",
+          "y": "352",
+          "properties": {
+            "text": "[Active]",
+            "size": "12",
+            "color": "5763719"
+          }
+        },
+        {
+          "ID": "23",
+          "typeID": "Label",
+          "zOrder": "23",
+          "measuredW": "110",
+          "measuredH": "19",
+          "x": "85",
+          "y": "373",
+          "properties": {
+            "text": "editor@site.com",
+            "size": "12",
+            "color": "6710886"
+          }
+        },
+        {
+          "ID": "24",
+          "typeID": "Label",
+          "zOrder": "24",
+          "measuredW": "109",
+          "measuredH": "19",
+          "x": "85",
+          "y": "392",
+          "properties": {
+            "text": "Last login: 1 day ago",
+            "size": "11",
+            "color": "6710886"
+          }
+        },
+        {
+          "ID": "25",
+          "typeID": "Label",
+          "zOrder": "25",
+          "measuredW": "100",
+          "measuredH": "21",
+          "x": "157",
+          "y": "440",
+          "properties": {
+            "text": "... Load More ...",
+            "size": "14",
+            "color": "2848996",
+            "italic": "true"
+          }
+        },
+        {
+          "ID": "26",
+          "typeID": "Icon",
+          "zOrder": "26",
+          "measuredW": "16",
+          "measuredH": "16",
+          "x": "370",
+          "y": "195",
+          "properties": {
+            "icon": {
+              "ID": "circle-arrow-right",
+              "size": "xsmall"
+            },
+            "color": "6710886"
+          }
+        },
+        {
+          "ID": "27",
+          "typeID": "Icon",
+          "zOrder": "27",
+          "measuredW": "16",
+          "measuredH": "16",
+          "x": "370",
+          "y": "285",
+          "properties": {
+            "icon": {
+              "ID": "circle-arrow-right",
+              "size": "xsmall"
+            },
+            "color": "6710886"
+          }
+        },
+        {
+          "ID": "28",
+          "typeID": "Icon",
+          "zOrder": "28",
+          "measuredW": "16",
+          "measuredH": "16",
+          "x": "370",
+          "y": "375",
+          "properties": {
+            "icon": {
+              "ID": "circle-arrow-right",
+              "size": "xsmall"
+            },
+            "color": "6710886"
+          }
+        }
+      ]
+    },
+    "measuredH": "896",
+    "measuredW": "414",
+    "mockupH": "896",
+    "mockupW": "414",
+    "version": "1.0"
+  }
+}
